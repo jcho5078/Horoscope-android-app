@@ -5,12 +5,12 @@
 <div>
 <img width="400" src="https://user-images.githubusercontent.com/60742556/74652155-c514b880-51c8-11ea-81a1-c1b647568139.jpg">
 </div>
-
+<hr>
 ### 각 별자리 운세 확인.
 <div>
 <img width="400" src="https://user-images.githubusercontent.com/60742556/74652155-c514b880-51c8-11ea-81a1-c1b647568139.jpg">
 </div>
   
-jsoup 이용하여 크롤링.구
+jsoup 이용하여 크롤링.
 <hr>	
 상업적 이용 안함.
