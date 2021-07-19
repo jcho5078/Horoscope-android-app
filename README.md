@@ -1,5 +1,5 @@
-﻿# Finding Horoscope-android-app
-## 처음만든 안드로이드 앱(운세 어플)- 짧은 프로젝트
+﻿# Horoscope-android-app
+## 안드로이드 앱(운세 어플)- Toy Project
 
 ### 메인화면
 <div>
@@ -12,5 +12,4 @@
 </div>
   
 jsoup 이용하여 크롤링.
-<hr>	
-상업적 이용 안 했음.
+<hr>
